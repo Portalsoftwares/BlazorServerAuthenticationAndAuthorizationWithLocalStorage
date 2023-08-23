@@ -1,5 +1,6 @@
 # Blazor Server Authentication and Authorization
 
+
 Watch Tutorial Video: https://www.youtube.com/watch?v=iq2btD9WufI&list=PLzewa6pjbr3IQEUfNiK2SROQC1NuKl6PV&index=12
 
 Blazor Tutorial C# - Part 11 is a tutorial video which explains everything about Blazor Authentication and Authorization [Blazor Auth]. In this video, we create a custom blazor server authentication state provider.
